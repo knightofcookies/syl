@@ -2,8 +2,7 @@
 A general purpose discord bot with music commands.
 
 ## Warning!
-Syl is no longer under active development.
-In the future, Discord may introduce changes to its API that may break it.
+Syl is no longer under active development. In the future, Discord may introduce changes to its API that may it.
 
 ## Features
 * Music (supports YouTube and Spotify)
